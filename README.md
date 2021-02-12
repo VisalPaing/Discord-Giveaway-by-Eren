@@ -1,6 +1,6 @@
 # Discord-Giveaway-by-Eren
-1.Pls type `npm i`\n
-2.Go to `config.json`
-3.Past Your token
-4.Past your prefix
-5.You type `node .` for run code.
+1.Pls type `npm i` <br>
+2.Go to `config.json`<br>
+3.Past Your token <br>
+4.Past your prefix <br>
+5.You type `node .` for run code.<br>
