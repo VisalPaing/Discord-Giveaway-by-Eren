@@ -5,7 +5,7 @@
 <h1 style="text-align: center; font-family: Jersey Sharp; color: yellowgreen;">MADE BY EREN</h1>
 <p style="text-align: center;color: blueviolet;font-family: Jersey Sharp;">If you have any question pls join my Discord</p>
 </div>
-<div align="center">
+<div>
   <a href="https://discord.gg/fP2e3qPTSc">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/></a>
     <a href="https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg">
