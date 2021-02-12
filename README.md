@@ -1,5 +1,5 @@
 # Discord-Giveaway-by-Eren
-1.Pls type `npm i`
+1.Pls type `npm i`\n
 2.Go to `config.json`
 3.Past Your token
 4.Past your prefix
